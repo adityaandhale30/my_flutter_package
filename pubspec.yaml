@@ -1,7 +1,8 @@
 name: my_flutter_package
 description: "A new Flutter package project."
 version: 0.0.1
-homepage:
+repository: https://github.com/adityaandhale30/my_flutter_package
+homepage: https://github.com/adityaandhale30/my_flutter_package
 
 environment:
   sdk: ^3.6.1
@@ -20,7 +21,8 @@ dev_dependencies:
 # following page: https://dart.dev/tools/pub/pubspec
 
 # The following section is specific to Flutter packages.
-flutter:
+#flutter:
+
 
   # To add assets to your package, add an assets section, like this:
   # assets:
